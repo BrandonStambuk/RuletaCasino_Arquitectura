@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=JugadorVIP
+comment1.params=
+comment1.target=JugadorVIP()
+comment2.params=
+comment2.target=int\ getNivelVIP()
+comment3.params=nivelVIP
+comment3.target=void\ setNivelVIP(int)
+comment4.params=
+comment4.target=double\ getBonoVIP()
+comment5.params=bonoVIP
+comment5.target=void\ setBonoVIP(double)
+comment6.params=
+comment6.target=boolean\ tieneAccesoSalasPrivadas()
+comment7.params=accesoSalasPrivadas
+comment7.target=void\ setAccesoSalasPrivadas(boolean)
+numComments=8
